@@ -1,0 +1,13 @@
+{
+  "name": "cypress-qa-pentview",
+  "version": "1.0.0",
+  "description": "Automatizacion E2E - Evaluacion QA CRM Pentview",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --browser chrome",
+    "cypress:run:headed": "cypress run --browser chrome --headed"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}

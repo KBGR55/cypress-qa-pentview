@@ -1,0 +1,36 @@
+{
+  "validUser": {
+    "firstName": "Test",
+    "lastName": "Automation",
+    "phone": "980735353",
+    "phoneCode": "+593",
+    "countryPhoneAcronym": "EC",
+    "username": "test.auto.cypress",
+    "password": "Test@12345",
+    "email": "test.auto.cypress@yopmail.com",
+    "idCountry": 60,
+    "countryName": "Ecuador",
+    "extension": "00000",
+    "ipAddress": "190.96.96.166",
+    "timezone": 142,
+    "idRol": "665e74a6888f1b44c3ce0db3",
+    "roleName": "TRANSACTION AUDITOR (EXPO)"
+  },
+  "invalidUser": {
+    "firstName": "Test",
+    "lastName": "Invalid",
+    "phone": "980735353",
+    "phoneCode": "+593",
+    "countryPhoneAcronym": "EC",
+    "username": "test.invalid.user",
+    "password": "Test@12345",
+    "email": "correo-invalido@.com",
+    "idCountry": 60,
+    "countryName": "Ecuador",
+    "extension": "00000",
+    "ipAddress": "190.96.96.166",
+    "timezone": 142,
+    "idRol": "665e74a6888f1b44c3ce0db3",
+    "roleName": "TRANSACTION AUDITOR (EXPO)"
+  }
+}
